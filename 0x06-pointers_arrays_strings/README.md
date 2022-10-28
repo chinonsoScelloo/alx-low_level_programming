@@ -1,0 +1,1 @@
+update pointers and array
