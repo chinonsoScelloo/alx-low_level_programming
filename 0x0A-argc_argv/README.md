@@ -1,0 +1,1 @@
+learnt about argv and argc
