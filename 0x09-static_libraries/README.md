@@ -1,0 +1,1 @@
+code contain c syntax ar,nm
