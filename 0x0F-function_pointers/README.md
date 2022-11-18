@@ -1,2 +1,2 @@
 ## POINTERS
->function pointer in C
+> functions pointer in C 
