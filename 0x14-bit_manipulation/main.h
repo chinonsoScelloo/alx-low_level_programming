@@ -3,7 +3,7 @@
 
 /*
  * File: main.h
- * Auth: (cm-amos)Amos Mwongela
+ * Auth: (cm-amos)chinonso
  * Desc: Header file containing prototypes for all functions
  *       written in the 0x14-bit_manipulation directory.
  */
